@@ -1,2 +1,2 @@
 # suggestions
-Write suggestions to issues tab
+Write what you want to make to issues tab
